@@ -1,12 +1,10 @@
 [package]
-name = "cargo_crate_template"
+name = "cargo_public_crate_template"
 version = "0.1.0"
 edition = "2021"
-description = "Library to access the Orica SLED database"
-license-file = "OricaLicense.md"
-repository = "https://github.com/ForesightMiningSoftwareCorporation/cargo_crate_template.git"
-publish = ["foresight-mining-software-corporation"]
-
+description = "Template Repository for our public rust crate"
+repository = "https://github.com/ForesightMiningSoftwareCorporation/cargo_public_crate_template.git"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

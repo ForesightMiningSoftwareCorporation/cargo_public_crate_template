@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cargo_crate_template"
+name = "cargo_public_crate_template"
 version = "0.1.0"
